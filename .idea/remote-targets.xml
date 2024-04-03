@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="hadoop@master:22" type="ssh/sftp" uuid="ba9883f4-6b78-4149-b31b-249e1b3e145a">
+        <config>
+          <option name="projectRootOnTarget" value="/home/hadoop/Hadoop" />
+          <option name="serverName" value="hadoop@master:22 agent" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config />
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>

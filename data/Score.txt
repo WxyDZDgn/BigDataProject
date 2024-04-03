@@ -1,0 +1,7 @@
+ZhangSan 98 76 87
+LiSi 65 85 76
+XiaoMei 61 95 84
+LiMing 80 79 88
+LiHua 73 86 90
+ZhaoLiu 65 77 88
+XiaoLi 91 82 86
